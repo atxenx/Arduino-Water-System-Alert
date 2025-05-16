@@ -38,8 +38,6 @@ This project uses an **ultrasonic sensor** to measure the water level inside a t
 
 ## Programming Language Used
  - Arduino (C/C++)
-
-   ![Circuit Diagram](https://img2.pic.in.th/pic/Screenshot-2568-05-16-at-12.28.29.png)
    
 ## This project was developed as part of the course:
 
@@ -47,4 +45,9 @@ Microcontrollers and Applications (CSS332-1)
 
 Sirindhorn International Institute of Technology (SIIT)
 Thammasat University
-   
+
+
+
+
+## Circuit Diagram
+![Circuit Diagram](https://img2.pic.in.th/pic/Screenshot-2568-05-16-at-12.28.29.png)

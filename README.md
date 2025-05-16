@@ -1,10 +1,8 @@
 # Arduino-Water-System-Alert
 
-# 🌾 Smart Farm Water Tank Monitor
+An Arduino-based water level monitoring and alert system designed for water tanks. This system helps people easily track water levels in real-time and receive alerts when the tank is low or full — improving efficiency and reducing manual work.
 
-An Arduino-based water level monitoring and alert system designed for agricultural water tanks. This system helps farmers easily track water levels in real-time and receive alerts when the tank is low or full — improving efficiency and reducing manual work.
-
-## 🚀 Project Summary
+##  Project Summary
 
 This project uses an **ultrasonic sensor** to measure the water level inside a tank and displays the percentage on a **16x2 LCD display**. Visual indicators (LEDs) and an active buzzer are used to notify the farmer of the current status:
 
